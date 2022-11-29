@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "学生信息查询系统", "学生信息查询系统.csproj", "{D889AA26-E14E-4C0D-A893-E2743E13309D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据库链接", "..\数据库链接\数据库链接.csproj", "{DC2BFB8B-1034-410E-907B-894FFA1B166A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D889AA26-E14E-4C0D-A893-E2743E13309D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D889AA26-E14E-4C0D-A893-E2743E13309D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D889AA26-E14E-4C0D-A893-E2743E13309D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D889AA26-E14E-4C0D-A893-E2743E13309D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2BFB8B-1034-410E-907B-894FFA1B166A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2BFB8B-1034-410E-907B-894FFA1B166A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2BFB8B-1034-410E-907B-894FFA1B166A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2BFB8B-1034-410E-907B-894FFA1B166A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A721CB70-9E85-412F-80DB-07D6EE2EF96E}
+	EndGlobalSection
+EndGlobal
